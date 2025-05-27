@@ -6,4 +6,4 @@ In this repository, each folder contains automated infrastructure as code for th
 - [Monitoring stack with Zabbix](https://github.com/memor24/monitoring-stack/tree/main/monitoring_zabbix) on the provision of a VMware vSphere-vCenter ESXi (type1 hypervisor) automated
 - [Observabilty stack with Amazon CloudWatch](https://github.com/memor24/terraform-aws/tree/main/aws/cloudwatch) for AWS cloud monitoring and observability
 
-link to managed logging/monitoring with AWS [CloudWatch]()
+link to observability with Loki
